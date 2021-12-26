@@ -1,0 +1,14 @@
+.example-form {
+
+  width: 80%;
+}
+
+.example-full-width {
+width:100%;
+}
+mat-card {
+  width:50%;
+  margin:auto;
+  border-radius: 20px;
+
+}
